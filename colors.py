@@ -1,0 +1,14 @@
+# Defining constant colors
+WHITE = '\033[0;37m'
+BLACK = '\033[0;30m'
+GREEN = '\033[0;32m'
+RED = '\033[0;31m'
+YELLOW = '\033[0;33m'
+ROSY_PINK = '\033[38;2;255;153;240m'
+CYAN = '\033[0;36m'
+
+# Defining background
+BLACK_BACKGROUND = '\033[40m'
+WHITE_BACKGROUND = '\033[47m'
+GREEN_BACKGROUND = '\033[42m'
+CYAN_BACKGROUND = '\033[46m'
